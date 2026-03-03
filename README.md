@@ -27,7 +27,18 @@ Para realizar a previsão de evasão e lidar com o desbalanceamento dos dados (7
 * **Métricas de Avaliação:** Foco em *Recall*, *Precision*, *F1-Score* e *Accuracy*.
 
 ---
+## 📂 3. Estrutura de arquivos
+telecoX_2/
+│
+├── data/               # Pasta para armazenar arquivos de dados
+│   └── dados_tratados.csv
+│
+├── notebooks/          # Pasta para seus arquivos .ipynb
+│   └── telecomx2_br.ipynb
+│
+└── README.md           # Descrição do projeto, objetivos e como rodar
 
+---
 ## 🚀 3. Como Executar o Projeto (Google Colab)
 
 Para reproduzir este projeto e rodar os modelos na sua máquina, siga os passos abaixo:
